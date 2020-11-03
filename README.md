@@ -3,4 +3,4 @@
 
  Bibliotecas:<br>
  [JLayer 1.0.1](http://www.javazoom.net/javalayer/sources.html)<br>
- [MP3Agic](https://github.com/mpatric/mp3agic).
+ [MP3Agic](https://github.com/mpatric/mp3agic)
