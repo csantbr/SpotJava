@@ -3,6 +3,7 @@
  
  ### Equipe:<br>
  [Caio Santoro dos Santos](https://github.com/csantbr)<br>
+ [Gabriel Ribelatto](https://github.com/GabrielRibelatto)
  [Guilherme Viola Constantinov](https://github.com/wiup)<br>
  [Juliano de Sousa Costa Ribeiro](https://github.com/Julianoscr)<br>
  [Leandro José da Silva](https://github.com/LeandroJSi/)
