@@ -2,6 +2,7 @@
  Código-fonte do Projeto de Conclusão de Semestre de IOO no ano de 2020.2 em FHO
  
  ### Equipe:<br>
+ [Anderson Henrique Leite Felix](https://github.com/FelixAnderson)<br>
  [Caio Santoro dos Santos](https://github.com/csantbr)<br>
  [Gabriel Ribelatto](https://github.com/GabrielRibelatto)<br>
  [Guilherme Viola Constantinov](https://github.com/wiup)<br>
