@@ -5,7 +5,7 @@
  [Anderson Henrique Leite Felix](https://github.com/FelixAnderson)<br>
  [Caio Santoro dos Santos](https://github.com/csantbr)<br>
  [Gabriel Ribelatto](https://github.com/GabrielRibelatto)<br>
- [Guilherme Viola Constantinov](https://github.com/wiup)<br>
+ [Guilherme Viola Constantinov](https://github.com/guilhermeconstantinov)<br>
  [Juliano de Sousa Costa Ribeiro](https://github.com/Julianoscr)<br>
  [Leandro José da Silva](https://github.com/LeandroJSi/)
  
